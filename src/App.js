@@ -3,7 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 import App1 from './comp1'
 
-console.log('AAAAAAAAAAAAAAAA,BBBBBBBBBBBBBBBB')
+console.log('AAAAAAAAAAAAAAAA,BBBBBBBBBBBBBBBB react king')
 
 class App extends Component {
   render() {
