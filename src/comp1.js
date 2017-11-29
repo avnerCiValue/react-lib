@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+console.log('Fuck you work')
 
 class App1 extends Component {
     render() {
