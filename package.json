@@ -1,7 +1,8 @@
 {
   "name": "react-lib",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": false,
+  "main": "lib/static/js/main.js",
   "dependencies": {
     "autoprefixer": "7.1.6",
     "babel-core": "6.26.0",
