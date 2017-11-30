@@ -4,7 +4,7 @@
 
 
 
-const dist='../civalue-server/civalue/portals/portal.client.app/node_modules/react-lib/lib/'
+const dist='../../civalue-server/civalue/portals/portal.client.app/node_modules/react-lib/lib/'
 const src=`./lib/`
 
 

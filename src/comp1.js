@@ -8,7 +8,7 @@ class App1 extends Component {
                   avner the king
                 </header>
                 <p className="App-intro">
-                  React XXX
+                 sasdasdasddd  asdasdas
 
 
                 </p>
